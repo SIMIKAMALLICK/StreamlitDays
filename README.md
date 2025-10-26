@@ -15,16 +15,6 @@ This repository contains hands-on experiments, mini-projects, and exercises crea
 
 ---
 
-## Features
-
-- **Interactive Visualizations** - Use charts, maps, and tables.  
-- **User Input Widgets** - Text input, sliders, checkboxes, radio buttons.  
-- **Layouts & Pages** - Multi-page apps with organized layouts.  
-- **Model Deployment** - Simple ML model deployment examples.  
-- **Learning Notes** - Code snippets and explanations for Streamlit features.  
-
----
-
 ## Getting Started
 
 1. **Clone the repository**
