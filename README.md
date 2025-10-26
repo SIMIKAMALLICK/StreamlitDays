@@ -61,3 +61,6 @@ ___
 ## Let's Play
    #### Day 1:
   <img width="1470" height="924" alt="image" src="https://github.com/user-attachments/assets/c2cd92ef-4655-4518-bb83-3865adf739e5" />
+  
+  #### Day 2:
+  <img width="1470" height="924" alt="image" src="https://github.com/user-attachments/assets/907e5c78-4e2b-46fe-a464-fe89f4ea0e53" />
