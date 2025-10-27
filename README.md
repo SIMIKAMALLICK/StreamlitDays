@@ -57,4 +57,8 @@ ___
 
   #### Day 3:
   <img width="1470" height="924" alt="image" src="https://github.com/user-attachments/assets/929b397d-d34a-4920-9a84-c8317f384854" />
+  
+  #### Day 4:
+  <img width="1470" height="924" alt="image" src="https://github.com/user-attachments/assets/54419f3f-9105-474c-941f-5384cdcb7f0a" />
+
 
